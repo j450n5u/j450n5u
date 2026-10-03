@@ -6,9 +6,7 @@ You haven't heard of them — that's by design.
 
 ---
 
-**I can't write code.**
-
-That's not an apology. It's the interesting part.
+**I'm not an engineer. I vibe-code.**
 
 Starting in mid-2026, I used AI agents to rebuild my company's entire software layer — ordering, bookkeeping, payroll, sales outreach, even the factory's security cameras.
 
@@ -18,11 +16,13 @@ The company runs itself. I direct; the agents build and operate.
 
 ---
 
-### Why there's no code here
+### About the code here
 
-The systems run a real, profitable business, so the source stays private.
+The real systems run a profitable business, so that source stays private.
 
-I'm not the person who writes the software. I'm the person all of this software is actually *for* — the operator every AI company says they're building toward.
+What you'll find instead are the small, sharp tools that fall out of running a company this way — like [csvfix](https://github.com/j450n5u/csvfix), which ended our garbled-bank-CSV mornings for good.
+
+I'm not the person who types the software by hand. I'm the person all of this software is actually *for* — the operator every AI company says they're building toward.
 
 ---
 
